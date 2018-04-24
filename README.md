@@ -1,5 +1,5 @@
 # Predict-Bankruptcy
-*The dataset obtained from the http://www.scriptedin.com/*
+*The dataset obtained from http://www.scriptedin.com/*
 
 ### Columns in data set
 1.  SALES: 
