@@ -15,3 +15,15 @@
 11. CHAUD: coded 1 if changed auditor in previous three years, 0 otherwise
 12. BIG6: coded 1 if company auditor is a Big6 auditor, 0 otherwise
 13. The target variable is FAIL, either = 1 or 0. 
+
+## Logistic Regression Model
+
+The logistic regression model from scikit-learn is used in this problem. Inorder to improve model accuracy;
+
+1.  Feature Scaling
+2.  Hyperparameter Tuning 
+
+is used.
+
+ 
+
