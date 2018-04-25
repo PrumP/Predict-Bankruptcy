@@ -2,7 +2,7 @@
 *The dataset obtained from http://www.scriptedin.com/*
 
 ### Columns in data set
-1.  SALES: 
+1.  SALES: total sales
 2.  ROCE: profit before tax=capital employed (%)
 3.	FFTL: funds flow (earnings before interest, tax & depreciation)=total liabilities
 4.	GEAR: (current liabilities + long-term debt)=total assets
