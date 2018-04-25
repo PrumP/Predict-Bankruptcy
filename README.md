@@ -23,7 +23,9 @@ The logistic regression model from scikit-learn is used in this problem. Inorder
 1.  Feature Scaling
 2.  Hyperparameter Tuning 
 
-is used.
+used for data preprocessing and model selection respectively.
+
+Accuracy of initial simple model is improved from 0.71 to 0.86.
 
  
 
